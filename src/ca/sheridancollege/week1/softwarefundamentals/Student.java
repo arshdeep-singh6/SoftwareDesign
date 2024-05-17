@@ -14,7 +14,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @modifiedby Arshdeep Singh
  * 
  * 
- * This is change in netbeans
+ * This is change in netbeans reflected on github
  */
 public class Student 
 {
