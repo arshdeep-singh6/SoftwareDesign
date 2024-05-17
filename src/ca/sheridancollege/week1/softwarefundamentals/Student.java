@@ -15,6 +15,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * 
  * 
  * This is change in netbeans reflected on github
+ changing to show merge and fetch
  */
 public class Student 
 {
