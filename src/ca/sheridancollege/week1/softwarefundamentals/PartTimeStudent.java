@@ -7,6 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author ARSHDEEP SINGH
+ * dfggfhhj
  */
 public class PartTimeStudent {
     
